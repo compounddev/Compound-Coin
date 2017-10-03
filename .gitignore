@@ -22,7 +22,7 @@
 moc_*.cpp
 moc_*.h
 qrc_*.cpp
-ui_*.h
+#ui_*.h
 #Makefile*
 *build-*
 
