@@ -23,7 +23,7 @@ moc_*.cpp
 moc_*.h
 qrc_*.cpp
 ui_*.h
-Makefile*
+#Makefile*
 *build-*
 
 # QtCreator
@@ -37,3 +37,5 @@ Makefile*
 # QtCtreator CMake
 CMakeLists.txt.user*
 
+# Mac specific
+.DS_Store
